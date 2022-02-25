@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LimboJones
+- 👋 Hi, I’m @LimboJones - you can call me Liam.
 - 👀 I’m interested in learning just about anything related to web development.
 - 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on projects that can help me learn best practices for web dev in general.
